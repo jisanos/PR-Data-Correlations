@@ -2,9 +2,13 @@
 CCOM6995/4995 Course final project
 
 # Folder structure guidelines
+
 `data/raw` Contains the unprocessed data
+
 `data/clean` Contains data after preprocessing/cleanup
+
 `results/visual` Contains visual analyses or representations
+
 `src` Contains scripts or notebooks
 
 # Data being used thus far
