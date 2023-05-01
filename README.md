@@ -25,6 +25,9 @@ https://estadisticas.pr/files/inventario/indice_de_precios_al_consumidor/2023-03
 ## Outages de energia en PR por LUMA (2021-)
 https://luma-outages.jpadilla.com/data?sql=select+*+from+customers
 
+## Generacion, consumo, costo, incresos y clientes del sistema electrico de PR (LUMA)
+https://www.indicadores.pr/dataset/generacion-consumo-costo-ingresos-y-clientes-del-sistema-electrico-de-puerto-rico/resource/8025f821-45c1-4c6a-b2f4-8d641cc03df1
+
 ## Clases Presenciales por Municipio
 https://datos.pr.gov/datacard/clases-presenciales-por-municipio?parent=RWR1Y2FjacOzbiAoRENDKQ==&parentPath=ZGF0YWNhcmRzY29sbGVjdGlvbi9lZHVjYWNpb24tZGNj
 
@@ -32,9 +35,6 @@ https://datos.pr.gov/datacard/clases-presenciales-por-municipio?parent=RWR1Y2Fja
 https://censo.estadisticas.pr/node/517
 
 https://censo.estadisticas.pr/EstimadosPoblacionales
-
-## Generacion, consumo, costo, incresos y clientes del sistema electrico de PR (LUMA)
-https://www.indicadores.pr/dataset/generacion-consumo-costo-ingresos-y-clientes-del-sistema-electrico-de-puerto-rico/resource/8025f821-45c1-4c6a-b2f4-8d641cc03df1
 
 ## Actividad Sismica
 https://redsismica.uprm.edu/spanish/sismicidad/catalogos/catalogo_general.php
