@@ -45,7 +45,7 @@ https://censo.estadisticas.pr/node/517
 
 https://censo.estadisticas.pr/EstimadosPoblacionales
 
-## Actividad Sismica
+## (Assigned) Actividad Sismica
 https://redsismica.uprm.edu/spanish/sismicidad/catalogos/catalogo_general.php
 
 ## (Assigned) Defunciones Registradas
