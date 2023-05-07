@@ -24,5 +24,5 @@ def create_csv(database_path, table_name, output_file):
                     writer.writerow([item['region'], item['area'], item['zone'], item['created_at']])
 
 if __name__ == "__main__":
-    create_csv('././data/raw/luma/luma_info.db', 'outages', '././data/clean/luma/luma_outages.csv')
-    create_csv('././data/raw/luma/luma_info.db', 'customers', '././data/clean/luma/luma_customers.csv')
+    create_csv('../../../data/raw/luma/luma_info.db', 'outages', '../../../data/clean/luma/luma_outages.csv')
+    create_csv('../../../data/raw/luma/luma_info.db', 'customers', '../../../data/clean/luma/luma_customers.csv')
