@@ -1,0 +1,14 @@
+# ignore Mac OS files
+.DS_Store
+
+# ignore vscode files
+.vscode
+
+
+# python bytecode
+*.pyc
+*.pyo
+__pycache__/
+
+Pipfile
+Pipfile.lock
