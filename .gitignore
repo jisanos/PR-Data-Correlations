@@ -12,3 +12,6 @@ __pycache__/
 
 Pipfile
 Pipfile.lock
+
+# Notebook checkpoints folders
+.ipynb_checkpoints
