@@ -15,3 +15,7 @@ Pipfile.lock
 
 # Notebook checkpoints folders
 .ipynb_checkpoints
+
+
+# ignore images
+*.png
