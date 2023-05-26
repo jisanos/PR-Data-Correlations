@@ -1,4 +1,4 @@
-.PHONY: install venv format
+.PHONY: install venv format get-poetry
 
 install:
 	@echo "Running Poetry..."
